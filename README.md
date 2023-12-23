@@ -1,1 +1,2 @@
-# Algorithms-for-DNA-Sequencing
+# Coursera JHU
+## Algorithms-for-DNA-Sequencing
